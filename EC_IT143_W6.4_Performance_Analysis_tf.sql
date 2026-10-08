@@ -1,5 +1,5 @@
 /*
-EC_IT143_W6.3_Performance_Analysis_lf.sql
+EC_IT143_W6.3_Performance_Analysis_Tf.sql
 
 Purpose:
 Demonstrate SQL Server performance analysis using
